@@ -1,10 +1,10 @@
-# Curriculum Vitae
+# CV
 
 Current my most-up-to-date CV / resume. Changes to it will be reflected in the repository.
 
 ## Compiled PDF
 
-You can either download it from [https://www.oliverearl.co.uk/cv](https://www.oliverearl.co.uk/cv), or if you clone / download this repo, compile it from the LaTeX source code. You can also grab one from my LinkedIn profile.
+You can either download it from [https://www.oliverearl.co.uk/cv.pdf](https://www.oliverearl.co.uk/cv.pdf), or if you clone / download this repo, compile it from the LaTeX source code. 
 
 ## Academic CV
 
