@@ -23,6 +23,12 @@
 
 \definecolor{infoboxcolor}{gray}{.97}
 
+% Preventing hyphenation https://tex.stackexchange.com/a/177179 %
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
 \usepackage[]{hyperref}
 \hypersetup{
 	pdftitle={Oliver Earl},
